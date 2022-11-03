@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "DS-Font's TrueType Fonts";
+    src: url("font/DS-DIGIB.TTF")
+}
+
+body {
+    background-color: rgb(13, 13, 13);
+    color: rgb(246, 242, 242);
+    text-align: center;
+    /* font-family: 'Silkscreen', cursive; */
+    font-family: "DS-Font's TrueType Fonts";
+    font-size: 25px;
+
+}
+
+.destination {
+    color: rgb(133, 4, 4);
+}
+
+.present {
+    color: rgb(0, 117, 0);
+}
